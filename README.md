@@ -1,2 +1,0 @@
-# FSLabel
-label详解
